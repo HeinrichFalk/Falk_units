@@ -1,0 +1,10 @@
+name = "Falk Units";
+author = "Heinrich Falk";
+description = "Falk Units";
+overview = "Small Unit change for 2pzd";
+logo = "Images\logo.paa";
+logoOver = "Images\logo.paa";
+logoSmall = "Images\logo.paa";
+picture = "Images\logo.paa";
+tooltip = "Your turtleship is great";
+action = "https://2pzd.net/";
